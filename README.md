@@ -3,11 +3,7 @@
    ======================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=Cristina%20Gibney&fontSize=46&fontAlignY=35&desc=Finance%20Professional%20%E2%86%92%20Software%20Engineering%20Student%20%7C%20Seattle,%20WA&descAlignY=58" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2600&pause=700&color=111111&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Cristina+%F0%9F%91%8B;I+build+full-stack+apps+with+clean+UX;I+love+data-driven+problem+solving;Open+to+Apprenticeships+%7C+Internships+%7C+Junior+Roles" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=Cristina%20Gibney&fontSize=48&fontAlignY=35&desc=Finance%20Professional%20%E2%86%92%20Software%20Engineering%20Student%20%7C%20Seattle,%20WA&descAlignY=58&fontAlign=50" />
 </p>
 
 <p align="center">
