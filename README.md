@@ -20,7 +20,6 @@
   <a href="https://github.com/CristinaGVO">
     <img src="https://img.shields.io/badge/GitHub-CristinaGVO-111111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=CristinaGVO&style=for-the-badge" />
 </p>
 
 ---
