@@ -25,7 +25,7 @@
 
 ---
 
-## ✨ About Me
+## About Me
 
 I’m a former **Finance & International Relations** professional transitioning into **Software Engineering** and **data-driven roles**.
 I enjoy building practical products with clean UI, strong logic, and real-world impact.
@@ -90,7 +90,6 @@ I enjoy building practical products with clean UI, strong logic, and real-world 
 
 - Building stronger **full-stack apps** (auth, APIs, clean architecture)
 - Improving **React patterns** (state, props, reusable components.
-- Writing better documentation and READMEs (like this one 😄)
 
 ---
 
