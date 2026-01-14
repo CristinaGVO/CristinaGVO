@@ -25,17 +25,12 @@
 ---
 
 ## About Me
-Hi! I’m Cristina 👋
-I started my career in finance and international relations, and I’m now transitioning into software engineering because I enjoy creating things that are useful, simple, and meaningful for people.
+I’m Cristina, I started my career in finance and international relations, and I’m now transitioning into software engineering because I enjoy creating things that are useful, simple, and meaningful for people.
 
 📍 Seattle, WA
-
 🎓 General Assembly Software Engineering Bootcamp
-
 🏅 Adobe Digital Academy scholarship recipient
-
 🌎 Bilingual: Spanish & English
-
 🤝 Open to apprenticeships, internships, and junior roles
 ---
 
