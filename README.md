@@ -1,16 +1,120 @@
-## Hi there 👋
+<!-- =======================
+        PROFILE README
+   ======================= -->
 
-<!--
-**CristinaGVO/CristinaGVO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=Cristina%20Gibney&fontSize=46&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Data%20Analytics%20Explorer%20%7C%20Seattle,%20WA&descAlignY=58" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2600&pause=700&color=111111&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Cristina+%F0%9F%91%8B;I+build+full-stack+apps+with+clean+UX;I+love+data-driven+problem+solving;Open+to+Apprenticeships+%7C+Internships+%7C+Junior+Roles" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/cristina-gibney/">
+    <img src="https://img.shields.io/badge/LinkedIn-Cristina%20Gibney-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:vargasosoriocristina@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-222222?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/CristinaGVO">
+    <img src="https://img.shields.io/badge/GitHub-CristinaGVO-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=CristinaGVO&style=for-the-badge" />
+</p>
+
+---
+
+## ✨ About Me
+
+I’m a former **Finance & International Relations** professional transitioning into **Software Engineering** and **data-driven roles**.
+I enjoy building practical products with clean UI, strong logic, and real-world impact.
+
+- 📍 Based in **Seattle, WA**
+- 🎓 Immersive **Software Engineering bootcamp** (General Assembly)
+- 🏅 Selected for the **Adobe Digital Academy scholarship**
+- 🌎 Bilingual: **Spanish & English**
+- 🤝 Open to **apprenticeships / internships / junior roles**
+
+---
+
+## 🧰 Tech Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,git,github,python,sql&perline=12" />
+</p>
+
+---
+
+## 🚀 Featured Projects (Live + Repo)
+
+<p align="center">
+  <a href="https://github.com/CristinaGVO/my-travel-journal">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CristinaGVO&repo=my-travel-journal" />
+  </a>
+  <a href="https://github.com/CristinaGVO/wild-west-hangman-game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CristinaGVO&repo=wild-west-hangman-game" />
+  </a>
+</p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✈️ My Travel Journal (MEN Stack)</h3>
+      <p>
+        A private travel journal to log trips, highlights, and memories with authentication + filters.
+      </p>
+      <p>
+        🔗 <a href="https://mytraveljournal-9e8323e47ea3.herokuapp.com/">Live Demo</a> ·
+        💻 <a href="https://github.com/CristinaGVO/my-travel-journal">Repo</a>
+      </p>
+      <img src="https://raw.githubusercontent.com/CristinaGVO/my-travel-journal/main/screenshots/home.png" alt="My Travel Journal Screenshot" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤠 Wild West Hangman (JavaScript)</h3>
+      <p>
+        A western twist on Hangman with game-state logic, clean UI, and a playful vibe.
+      </p>
+      <p>
+        🎮 <a href="https://cristinagvo.github.io/wild-west-hangman-game/">Live Demo</a> ·
+        💻 <a href="https://github.com/CristinaGVO/wild-west-hangman-game">Repo</a>
+      </p>
+      <img src="https://raw.githubusercontent.com/CristinaGVO/wild-west-hangman-game/main/Proyect1.png" alt="Wild West Hangman Screenshot" />
+    </td>
+  </tr>
+</table>
+
+> If any image doesn’t load, replace `main` with `master` in the image URLs.
+
+---
+
+## 🎯 What I’m Focused On Right Now
+
+- Building stronger **full-stack apps** (auth, APIs, clean architecture)
+- Improving **React patterns** (state, props, reusable components)
+- Strengthening **data analytics** foundations (SQL + dashboards)
+- Writing better documentation and READMEs (like this one 😄)
+
+---
+
+## 📈 GitHub Snapshot
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CristinaGVO&show_icons=true&hide_title=true" height="155" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristinaGVO&layout=compact" height="155" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CristinaGVO" height="165" />
+</p>
+
+---
+
+## 🤝 Let’s Connect
+
+- LinkedIn: https://www.linkedin.com/in/cristina-gibney/
+- Email: vargasosoriocristina@gmail.com
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer"/>
+</p>
