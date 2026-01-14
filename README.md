@@ -84,15 +84,12 @@ I enjoy building practical products with clean UI, strong logic, and real-world 
   </tr>
 </table>
 
-> If any image doesn’t load, replace `main` with `master` in the image URLs.
-
 ---
 
 ## 🎯 What I’m Focused On Right Now
 
 - Building stronger **full-stack apps** (auth, APIs, clean architecture)
-- Improving **React patterns** (state, props, reusable components)
-- Strengthening **data analytics** foundations (SQL + dashboards)
+- Improving **React patterns** (state, props, reusable components.
 - Writing better documentation and READMEs (like this one 😄)
 
 ---
