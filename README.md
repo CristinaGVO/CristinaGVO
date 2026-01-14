@@ -85,17 +85,6 @@ I’m Cristina, I started my career in finance and international relations, and 
 
 ---
 
-## 📈 GitHub Snapshot
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CristinaGVO&show_icons=true&hide_title=true" height="155" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristinaGVO&layout=compact" height="155" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CristinaGVO" height="165" />
-</p>
-
 ---
 
 ## 🤝 Let’s Connect
