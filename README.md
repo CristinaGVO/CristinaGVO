@@ -21,16 +21,18 @@
 ---
 
 ## About Me
-I’m Cristina, I started my career in finance and international relations, and I’m now transitioning into software engineering because I enjoy creating things that are useful, simple, and meaningful for people.
 
-📍 Seattle, WA
-🎓 General Assembly Software Engineering Bootcamp
-🏅 Adobe Digital Academy scholarship recipient
-🌎 Bilingual: Spanish & English
-🤝 Open to apprenticeships, internships, and junior roles
+Hi! I’m Cristina — I started my career in finance and international relations, and I’m now transitioning into software engineering because I enjoy building products that are useful, simple, and meaningful for people.
+
+- **Location:** Seattle, WA  
+- **Program:** General Assembly Software Engineering Bootcamp  
+- **Scholarship:** Adobe Digital Academy recipient  
+- **Languages:** Spanish & English (bilingual)  
+- **Open to:** Apprenticeships, internships, and junior roles  
+
 ---
 
-## 🧰 Tech Toolbox
+## Tech Toolbox
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,git,github,python,sql&perline=12" />
@@ -38,7 +40,7 @@ I’m Cristina, I started my career in finance and international relations, and 
 
 ---
 
-## 🚀 Featured Projects (Live + Repo)
+## Featured Projects
 
 <p align="center">
   <a href="https://github.com/CristinaGVO/my-travel-journal">
@@ -78,20 +80,19 @@ I’m Cristina, I started my career in finance and international relations, and 
 
 ---
 
-## 🎯 What I’m Focused On Right Now
+## What I’m Focused On Right Now
 
 - Building stronger **full-stack apps** (auth, APIs, clean architecture)
-- Improving **React patterns** (state, props, reusable components.
+- Improving **React patterns** (state, props, reusable components)
 
 ---
 
----
+## Let’s Connect
 
-## 🤝 Let’s Connect
-
-- LinkedIn: https://www.linkedin.com/in/cristina-gibney/
-- Email: vargasosoriocristina@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/cristina-gibney/  
+- **Email:** vargasosoriocristina@gmail.com  
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer"/>
 </p>
+
